@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial2</string>
+    <string name="fibonacciNumbers">Fibonacci Numbers</string>
+    <string name="intent_with_data_passing">Intent With Data Passing</string>
+    <string name="intent_with_pasing_data_using_bundle">Intent With Data Passing Using Bundle</string>
+    <string name="intent_with_request_for_data_pass_back">Intent With Request For Data Pass Back</string>
+    <string name="fib_non_rec">Fibonacci Numbers (Non Recursive)</string>
+    <string name="fib_recursive">Fibonacci Numbers (Recursive)</string>
+    <string name="back">Back</string>
+    <string name="generate">Generate</string>
+    <string name="empty_value">%s</string>
+</resources>
