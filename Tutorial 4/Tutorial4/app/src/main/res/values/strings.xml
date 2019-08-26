@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial4</string>
+
+    <string name="sqlite">SQLite</string>
+
+    <string name="course_hint">Type the course code here</string>
+    <string name="student_count_hint">Type the number of students here</string>
+    <string name="student_type_hint">Indicate undergrad or graduate here</string>
+
+    <string name="add">Add</string>
+    <string name="display">Display</string>
+    <string name="delete">Delete</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tutorial 3</string>
+    <string name="static_fragment">Static Fragment</string>
+    <string name="dynamic_fragment">Dynamic Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fragment_1">Hello I am Fragment-1</string>
+    <string name="hello_fragment_2">Hello I am Fragment-2</string>
+    <string name="back">Back (I am defined in an activity)</string>
+    <string name="crete_fish_description">Crete Fish Image</string>
+    <string name="meteora_description">Meteora Image Description</string>
+    <string name="fragment_with_interface">Fragment With Interface</string>
+    <string name="toast_message_button">Toast a message (I am defined in a Fragment)</string>
+</resources>

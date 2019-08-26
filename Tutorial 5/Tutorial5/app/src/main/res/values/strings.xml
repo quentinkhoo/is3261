@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial 5</string>
+    <string name="save">Save Time Stamp And Battery Status</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="stored_content">Stored Content</string>
+    <string name="retrievedData">The Stored sharedPreferences data are: \n\n
+                                    IsCharging = %s\n\n
+                                    USB Charging = %s\n\n
+                                    AC Charging:%s\n\n
+                                    Battery Percentage = %s\n\n
+                                    Saved %s seconds ago</string>
+</resources>
